@@ -45,7 +45,8 @@ int add(int number1, int number2)
  
 int sub(int number1, int number2)
 {
-	//TODO implementation
+	//this is hyunjin method
+
 	return 0;
 }
  
