@@ -58,6 +58,6 @@ int multi(int number1, int number2)
  
 int div(int number1, int number2)
 {
-	//TODO implementation
+	//this is jaecheol method
 	return 0;
 }
