@@ -39,7 +39,7 @@ int main(int argc, char* argv[])
  
 int add(int number1, int number2)
 {
-	//TODO implementation
+	// 더하기 조재철이 함
 	return 0;
 }
  
