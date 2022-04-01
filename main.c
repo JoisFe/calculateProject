@@ -8,7 +8,11 @@ int add(int, int);
 int sub(int, int);
 int div(int, int);
 int multi(int, int);
- 
+
+int power(int n) {
+	// TODO
+}
+
 int main(int argc, char* argv[])
 {
 	int number1, number2, result;
