@@ -65,3 +65,7 @@ int div(int number1, int number2)
 	//this is jaecheol method
 	return 0;
 }
+
+void init () {
+	// this is woosung method
+}
