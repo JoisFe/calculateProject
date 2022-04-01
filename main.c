@@ -8,7 +8,8 @@ int add(int, int);
 int sub(int, int);
 int div(int, int);
 int multi(int, int);
- 
+int power(int n);
+
 int main(int argc, char* argv[])
 {
 	int number1, number2, result;
@@ -64,6 +65,10 @@ int div(int number1, int number2)
 {
 	//this is jaecheol method
 	return 0;
+}
+
+int power(int n) {
+	// DONE: 거듭제곱 구현
 }
 
 void init () {
