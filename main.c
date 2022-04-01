@@ -54,7 +54,8 @@ int sub(int number1, int number2)
  
 int multi(int number1, int number2)
 {
-	//TODO implementation
+	
+	//this is hunmin method
 	return 0;
 }
  
